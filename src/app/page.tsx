@@ -68,7 +68,9 @@ export default function Home() {
             <div className="col-span-6 z-10">
               <Image
                 alt="Cover"
-                src={"/cover.png"}
+                src={
+                  "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/cover.png"
+                }
                 width={800}
                 height={800}
                 onClick={() => set((state) => !state)}

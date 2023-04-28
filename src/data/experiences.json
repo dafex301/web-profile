@@ -2,31 +2,31 @@
   {
     "company": "Universitas Diponegoro",
     "position": "Software Engineer Intern",
-    "logo": "/assets/images/undip.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/undip.png"
   },
   {
     "company": "Gelora.id",
     "position": "Software Developer Intern",
-    "logo": "/assets/images/gelora.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/gelora.png"
   },
   {
     "company": "Dicoding",
     "position": "Software Project",
-    "logo": "/assets/images/dicoding.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/dicoding.png"
   },
   {
     "company": "PT. Taspen",
     "position": "Freelance Software Eng.",
-    "logo": "/assets/images/taspen.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/taspen.png"
   },
   {
     "company": "Bangkit",
     "position": "Cloud Computing Cohort",
-    "logo": "/assets/images/bangkit.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/bangkit.png"
   },
   {
     "company": "KodeKiddo",
     "position": "Part-time Coding Teacher",
-    "logo": "/assets/images/kodekiddo.png"
+    "logo": "https://storage.googleapis.com/dicoding_submission_fahrel_1/web-profile/kodekiddo.png"
   }
 ]

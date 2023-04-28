@@ -6,6 +6,7 @@ const nextConfig = {
   images: {
     domains: ["storage.googleapis.com"],
   },
+  distDir: "build",
 };
 
 module.exports = nextConfig;

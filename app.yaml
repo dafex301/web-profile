@@ -1,0 +1,8 @@
+env: standard
+runtime: nodejs18
+service: web-profile
+
+handlers:
+  - url: /.*
+    secure: always
+    script: auto

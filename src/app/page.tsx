@@ -15,8 +15,8 @@ import socialmedias from "@/data/social-media.json";
 import Skill from "@/components/Skill";
 import skills from "@/data/skills.json";
 
-import Trail from "@/components/Animations/Trail";
-import FadeIn from "@/components/Animations/FadeIn";
+import Trail from "@/components/animations/Trail";
+import FadeIn from "@/components/animations/FadeIn";
 
 export default function Home() {
   const [open, set] = useState(true);

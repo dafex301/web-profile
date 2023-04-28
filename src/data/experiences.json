@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Universitas Diponegoro",
+    "position": "Software Engineer Intern",
+    "logo": "/assets/images/undip.png"
+  },
+  {
+    "company": "Gelora.id",
+    "position": "Software Developer Intern",
+    "logo": "/assets/images/gelora.png"
+  },
+  {
+    "company": "Dicoding",
+    "position": "Software Project",
+    "logo": "/assets/images/dicoding.png"
+  },
+  {
+    "company": "PT. Taspen",
+    "position": "Freelance Software Eng.",
+    "logo": "/assets/images/taspen.png"
+  },
+  {
+    "company": "Bangkit",
+    "position": "Cloud Computing Cohort",
+    "logo": "/assets/images/bangkit.png"
+  },
+  {
+    "company": "KodeKiddo",
+    "position": "Part-time Coding Teacher",
+    "logo": "/assets/images/kodekiddo.png"
+  }
+]
